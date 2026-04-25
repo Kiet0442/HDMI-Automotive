@@ -1,0 +1,118 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>app_en.ts</file>
+        <file>app_vi.ts</file>
+        <file>app_en.qm</file>
+        <file>app_vi.qm</file>
+
+        <!-- Background -->
+        <file>Images/Back-ground/Bg-battery.png</file>
+        <file>Images/Back-ground/Bg-battery.svg</file>
+        <file>Images/Back-ground/Bg-music.png</file>
+        <file>Images/Back-ground/Bg-music.svg</file>
+
+        <!-- Battery -->
+        <file>Images/Battery/Charge.png</file>
+        <file>Images/Battery/Charge.svg</file>
+        <file>Images/Battery/Time-remain.png</file>
+        <file>Images/Battery/Time-used.svg</file>
+        <file>Images/Battery/mainbattery.png</file>
+        <file>Images/Battery/headbattery.png</file>
+        <file>Images/Battery/rectangle.svg</file>
+        <file>Images/Battery/Time-used.png</file>
+
+        <!-- Icon-instruction -->
+        <file>Images/Icon-instruction/Limit.svg</file>
+        <file>Images/Icon-instruction/Mini_Nav.svg</file>
+
+        <!-- Icon-left -->
+        <file>Images/Icon-left/battery.svg</file>
+        <file>Images/Icon-left/brake-abs.svg</file>
+        <file>Images/Icon-left/handbrake.svg</file>
+        <file>Images/Icon-left/temperature.svg</file>
+        <file>Images/Icon-left/turn-left.svg</file>
+
+        <!-- Icon-right -->
+        <file>Images/Icon-right/light-down.svg</file>
+        <file>Images/Icon-right/light-high.svg</file>
+        <file>Images/Icon-right/parking.svg</file>
+        <file>Images/Icon-right/seat-belt.svg</file>
+        <file>Images/Icon-right/turn-right.svg</file>
+
+        <!-- Music -->
+        <file>Images/Music/Next.svg</file>
+        <file>Images/Music/Played.svg</file>
+        <file>Images/Music/Previous.svg</file>
+        <file>Images/Music/Progress.svg</file>
+        <file>Images/Music/Total.svg</file>
+        <file>Images/Music/sontung.png</file>
+        <file>Images/Music/imgsontung.svg</file>
+        <file>Images/Music/imgjack.png</file>
+
+        <!-- Speed-tacho-fuel -->
+        <file>Images/Speed-tacho-fuel/fuel_holder.svg</file>
+        <file>Images/Speed-tacho-fuel/fuel_speedometer.svg</file>
+        <file>Images/Speed-tacho-fuel/low-battery 1.svg</file>
+        <file>Images/Speed-tacho-fuel/rpm_holder.svg</file>
+        <file>Images/Speed-tacho-fuel/rpm_speedometer.svg</file>
+        <file>Images/Speed-tacho-fuel/Temp_speedometer.png</file>
+        <file>Images/Speed-tacho-fuel/Temp_speedometer.svg</file>
+        <file>Images/Speed-tacho-fuel/temperature-control 1.svg</file>
+        <file>Images/Speed-tacho-fuel/rondella.png</file>
+        <file>Images/Speed-tacho-fuel/information.png</file>
+
+        <!-- Face-ivi -->
+        <file>Images/face-ivi/Face1.png</file>
+        <file>Images/face-ivi/Face2.png</file>
+        <file>Images/face-ivi/Face3.png</file>
+        <file>Images/face-ivi/Face4.png</file>
+        <file>Images/face-ivi/Face5.png</file>
+        <file>Images/face-ivi/Face6.png</file>
+        <file>Images/face-ivi/Face7.png</file>
+        <file>Images/face-ivi/Face8.png</file>
+        <file>Images/face-ivi/ChungTaCuaHienTai.jpg</file>
+        <file>Images/face-ivi/ThienLyOi.jpg</file>
+        <file>Images/face-ivi/TetDongDay.jpg</file>
+        <file>Images/face-ivi/LastChristmas.jpg</file>
+        <file>Images/face-ivi/RightNow.png</file>
+        <file>Images/face-ivi/VietNamToi.jpg</file>
+
+        <!-- icon-ivi -->
+        <file>Images/icon-ivi/Left.png</file>
+        <file>Images/icon-ivi/Music-left.png</file>
+        <file>Images/icon-ivi/Music-right.png</file>
+        <file>Images/icon-ivi/Music-pause.png</file>
+        <file>Images/icon-ivi/Pause.png</file>
+        <file>Images/icon-ivi/Right.png</file>
+        <file>Images/icon-ivi/Speaker.png</file>
+        <file>Images/icon-ivi/Wifi.png</file>
+        <file>Images/icon-ivi/play.png</file>
+        <file>Images/icon-ivi/pause.png</file>
+
+        <!-- left-ivi -->
+        <file>Images/left-ivi/Union1.png</file>
+        <file>Images/left-ivi/Union2.png</file>
+        <file>Images/left-ivi/Union3.png</file>
+        <file>Images/left-ivi/Union4.png</file>
+        <file>Images/left-ivi/Union5.png</file>
+
+        <!-- weather-ivi -->
+        <file>Images/weather-ivi/Weather1.png</file>
+        <file>Images/weather-ivi/Weather2.png</file>
+        <file>Images/weather-ivi/Weather3.png</file>
+        <file>Images/weather-ivi/Weather4.png</file>
+
+        <!-- QML Windows -->
+        <file>ClusterWindow.qml</file>
+        <file>IVIWindow.qml</file>
+
+        <!-- Common QML -->
+        <file>Common/ProgressArc.qml</file>
+        <file>Common/ArcGauge.qml</file>
+        <file>Common/MusicItem.qml</file>
+        <file>Common/MusicPlayer.qml</file>
+        <file>Common/BatteryItem.qml</file>
+    </qresource>
+</RCC>
+
