@@ -241,7 +241,7 @@ cmake --build . --parallel
 
 | Vai trò | Tên |
 |---|---|
-| Sinh viên | Nguyễn Ngọc Ca |
+| Sinh viên | Hoàng Tuấn Kiệt|
 
 **Trường:** Đại học Công nghệ Thông tin và Truyền thông Việt Hàn (VKU)  
 **Khoa:** Kỹ thuật Máy tính và Điện tử  
